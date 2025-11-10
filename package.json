@@ -1,0 +1,19 @@
+{
+  "name": "art-paint-editor",
+  "version": "1.0.0",
+  "description": "Official website of Art Paint Editor",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProcrastinationExpert/art-paint-editor-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProcrastinationExpert/art-paint-editor-website/issues"
+  },
+  "homepage": "https://github.com/ProcrastinationExpert/art-paint-editor-website#readme"
+}
